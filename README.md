@@ -4,7 +4,7 @@
 <img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/53892988/162955475-313fa860-ef61-445a-bd20-8ee791d27adc.svg" height='18px'/>
 </a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, 🤖 or Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 <br/>
 
