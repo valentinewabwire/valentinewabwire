@@ -8,7 +8,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53892988/162956247-bbe08bbe-bafa-4f3e-a1e7-24552da6221b.gif" width="360px"/>
+
   
 ### 🧐 More About Me:
 
